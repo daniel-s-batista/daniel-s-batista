@@ -5,7 +5,7 @@ Meu nome é <b>Daniel Salles Batista</b> e atualmente estou cursando o curso sup
 
 Tenho <b>formação técnica em Desenvolvimento de Jogos Digitais</b>, e aqui estão alguns projetos disponíveis na minha página do itch.io nos quais tive participação, dentre eles:
 - [Um jogo simples de Asteroides](https://daniel-salles-batista.itch.io/asteroid-test)
-- [Quiz sobre cubismo (jogável no celular e com duas linguagens disponíveis)](https://daniel-salles-batista.itch.io/cubismo)
+- [Quiz sobre cubismo (jogável em PCs e celulares e com duas linguagens disponíveis)](https://daniel-salles-batista.itch.io/cubismo)
 - [Plataforma com tema de Halloween](https://daniel-salles-batista.itch.io/deathsatk)
 - [Top-down para pessoas com baixa visão (TCC do curso técnico, trabalhei na programação)](https://daniel-salles-batista.itch.io/baixa-visao)
 
