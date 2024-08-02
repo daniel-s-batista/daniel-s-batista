@@ -1,7 +1,7 @@
 # Hello World!
 
 ## Introdução
-Meu nome é <b>Daniel Salles Batista</b> e atualmente estou cursando o curso superior de <b>Sistemas de Informação</b> na FIPP (Faculdade de Informática de Presidente Prudente). Como ainda sou novo na área, estou sempre procurando aprender sobre diversas tecnologias, especialmente linguagens de programação, sendo que <b>atualmente estou estudando C, Python e Javascript</b>.
+Meu nome é <b>Daniel Salles Batista</b> e atualmente estou cursando o curso superior de <b>Sistemas de Informação</b> na FIPP (Faculdade de Informática de Presidente Prudente). Como ainda sou novo na área, estou sempre procurando aprender sobre diversas tecnologias, sendo alguns exemplos <b>C, Python, JavaScript, HTML e CSS</b>.
 
 Tenho <b>formação técnica em Desenvolvimento de Jogos Digitais</b>, e aqui estão alguns projetos disponíveis na minha página do itch.io nos quais tive participação, dentre eles:
 - [Um jogo simples de Asteroides](https://daniel-salles-batista.itch.io/asteroid-test)
